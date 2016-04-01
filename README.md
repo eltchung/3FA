@@ -9,7 +9,7 @@ This repo contains the nessessary install scripts and drivers to support Element
 - **Life @Elementum: Work Hard, Play Hard :** We want everyone to have fun at Elementum, but we want everyone to do this in a safe way for our co-workers and our product.
 
 ## What's in this Repo
-###install.sh### - Script to download the drivers and install.
+###install.sh - Script to download the drivers and install.
 
 Use the following command line to install the breathalizer drivers:
 ```
