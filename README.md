@@ -1,4 +1,4 @@
-# Elementum's 3rd Factor Authentication
+# ::beer:: Elementum's 3rd Factor Authentication  ::beer:: 
 
 ## Summary
 This repo contains the nessessary install scripts and drivers to support Elementum's 3rd Factor Auth solution.
@@ -18,5 +18,5 @@ curl https://raw.githubusercontent.com/eltchung/3FA/master/install.sh | /bin/bas
 
 **Note:** Yes, I know that piping into bash is very insecure, but hey, your trusty security guy wrote this.  So, it's ok.
 
-###usb_breathalizer.drv### - usb profile and driver for OSX
+###usb_breathalizer.drv### - usb profile and driver for OSX ::beers;;
 
